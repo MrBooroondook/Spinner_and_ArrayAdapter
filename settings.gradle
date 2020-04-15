@@ -1,0 +1,2 @@
+rootProject.name='Spinner_and_ArrayAdapter'
+include ':app'
