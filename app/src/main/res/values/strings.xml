@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Spinner and ArrayAdapter</string>
+    <string name="select">Выбрать…</string>
 </resources>
